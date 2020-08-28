@@ -1,18 +1,21 @@
 {
     "users": [
         {
+            "id": 1,
             "password": "123456",
             "name": "john",
             "category": "1",
             "email": "john@gmail.com"
         },
         {
+            "id": 2,
             "password": "123456",
             "name": "tom",
             "category": "2",
             "email": "tom@gmail.com"
         },
         {
+            "id": 3,
             "password": "123456",
             "name": "jack",
             "category": "3",
@@ -41,14 +44,17 @@
     },
     "category": [
         {
+            "id": 1,
             "code": "RT",
             "description": "Retailer"
         },
         {
+            "id": 2,
             "code": "SAL",
             "description": "Sales"
         },
         {
+            "id": 3,
             "code": "SUP",
             "description": "Supervisor"
         }
