@@ -1,0 +1,56 @@
+{
+    "users": [
+        {
+            "password": "123456",
+            "name": "john",
+            "category": "1",
+            "email": "john@gmail.com"
+        },
+        {
+            "password": "123456",
+            "name": "tom",
+            "category": "2",
+            "email": "tom@gmail.com"
+        },
+        {
+            "password": "123456",
+            "name": "jack",
+            "category": "3",
+            "email": "jack@gmail.com"
+        }
+    ],
+    "items": [
+        {
+            "id": 1,
+            "description": "description 1"
+        },
+        {
+            "id": 2,
+            "description": "description 2"
+        },
+        {
+            "id": 2,
+            "description": "description 3"
+        }
+    ],
+    "profile": {
+        "password": "123456",
+        "name": "john",
+        "category": "1",
+        "email": "john@gmail.com"
+    },
+    "category": [
+        {
+            "code": "RT",
+            "description": "Retailer"
+        },
+        {
+            "code": "SAL",
+            "description": "Sales"
+        },
+        {
+            "code": "SUP",
+            "description": "Supervisor"
+        }
+    ]
+}
